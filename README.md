@@ -2,6 +2,8 @@
 
 A one-page website for Warren Street Barbers, a fictional neighborhood barbershop in Roxbury, Boston. The page has a header with navigation, a bold call-to-action banner for booking a chair, a price list for cuts and shaves, an "About the Shop" section with a photo, and a footer with the address, phone number, and hours.
 
+<img width="700" alt="Warren Street Barbers website" src="images/boston-barber.png" />
+
 ## How It's Made:
 
 **Tech used:**
